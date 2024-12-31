@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Hakermann420
-- 👀 I’m interested in Game Development and Basketball
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on a Game
-- 📫 How to reach me: marcel@michisoft.tk
+# Hi there! 👋
 
+I'm Marcel, an Aerospace Information Technology student passionate about technology, coding, and all things flight-related. 🚀
 
+## ⚙️ What I’m Into
 
-<!---
-Hakermann420/Hakermann420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌐 Self-hosting solutions (e.g., NAS, portable servers)
+- ✈️ Building, repairing and customizing RC planes
+- 🛠️ Tinkering with tech, from DIY arcade machines to ESP32 projects
+
+## 🎯 Goals
+
+- Design and fly a custom 3D printed RC plane.
+- Build a custom home cockpit for simulator use.
+- Continue exploring innovative DIY projects and tech tinkering.
